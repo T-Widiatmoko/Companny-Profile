@@ -1,1 +1,1 @@
-# Companny-Profile
+# Company-Profile
